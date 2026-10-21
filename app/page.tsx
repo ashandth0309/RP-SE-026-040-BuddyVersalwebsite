@@ -396,10 +396,12 @@ export default function Home() {
             Research Project R26-SE-040
           </div>
 
-          <h1>
-            A companion robot that can{" "}
-            <em>listen, observe and move safely.</em>
-          </h1>
+          
+<h1>
+  Emotionally Intelligent Companion Dog Robot with{" "}
+  <em>AI-Driven Security and Voice Interaction.</em>
+</h1>
+
 
           <p className="hero-lede">
             BUDDY is an affordable intelligent robot-dog research prototype
