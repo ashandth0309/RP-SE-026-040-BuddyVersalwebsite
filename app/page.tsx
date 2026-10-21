@@ -397,10 +397,12 @@ export default function Home() {
           </div>
 
           
-<h1>
+
+<h1 className="hero-title">
   Emotionally Intelligent Companion Dog Robot with{" "}
   <em>AI-Driven Security and Voice Interaction.</em>
 </h1>
+
 
 
           <p className="hero-lede">
